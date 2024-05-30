@@ -1,0 +1,55 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+    text-decoration: none;
+}
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 6rem;
+    overflow-x: hidden;
+    background: rgb(196, 177, 196);
+}
+
+
+.block {
+    margin-top: 67px;
+    margin-left: 140px;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: 400;
+    margin-top: 30px;
+    margin-left: -5px;
+}
+
+.form1 {
+
+    margin-top: 10px;
+}
+
+
+p {
+    line-height: 30px;
+    font-size: 19px;
+    margin-top: 10px;
+}
+
+.input {
+
+    display: flex;
+
+    width: 396px;
+
+    padding: 17px;
+}
+
+.input1{
+    display: flex;
+    width: 710px;
+    padding: 42px;
+}
